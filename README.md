@@ -1,6 +1,6 @@
 ### About Me
-
 <p style="text-align:justify; text-justify:inter-ideograph;">
+         
 I am a Master degree candidate in Civil Engineering under supervision of Professor Wang-xinzhi. I am affliated with [State Key Laboratory of Geomechanics and Geotechnical Engineering](http://www.sklgme.org/) and [Institute of Rock and Soil Mechanicsat](http://www.whrsm.ac.cn/) at [CAS](http://www.cas.ac.cn/). I got my bachelor's degree from [Hefei University of Technology](https://www.hfut.edu.cn/). You can reach me through my email address haozeal at gmail dot com.
 </p>
 
