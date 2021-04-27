@@ -4,7 +4,7 @@ I am a Master degree candidate in Civil Engineering under supervision of Profess
 
 ### Research
 
-In the broadest sense, I do research regarding how to bridge soil mechanics ,  geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.
+In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.
 
 #### Theses
 
