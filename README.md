@@ -9,21 +9,21 @@ In the broadest sense, I do research regarding how to bridge soil mechanics ,  g
 #### Theses
 
 
-<P style="text-indent:2em;">
+<P style="text-indent:2em;padding:2em">
 Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
 </p>
 
 #### Patent
 
-<P style="text-indent:2em;"> 
+<P style="text-indent:2em;padding:2em"> 
 Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
 </p>
 
 ##### Work in Progress
 
 
-<P style="text-indent:2em;"> the Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".</p>
-  
-<P style="text-indent:2em;"> the National Natural Science Foundation of China.
+<P style="text-indent:2em;padding:2em"> the Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".
+</p> 
+<P style="text-indent:2em;padding:2em"> the National Natural Science Foundation of China.
 </p>
 
