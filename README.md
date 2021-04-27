@@ -1,5 +1,5 @@
 ### About Me
-I am a Master degree candidate in Civil Engineering under supervision of Professor Wang-xinzhi. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering at CAS. I got my bachelor's degree from Hefei University of Technology. You can reach me through my email address haozeal at gmail dot com.
+I am a Master degree candidate in Civil Engineering under supervision of Professor Wang-xinzhi. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering at CAS. I got my bachelor's degree from Hefei University of Technology[https://www.hfut.edu.cn/]. You can reach me through my email address haozeal at gmail dot com.
 
 You can use the [editor on GitHub](https://github.com/Haoz2/Haoz2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
