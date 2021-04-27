@@ -4,32 +4,17 @@ I am a Master degree candidate in Civil Engineering under supervision of Profess
 
 ### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the broadest sense, I do research regarding how to bridge soil mechanics ,  geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.
 
-```markdown
-Syntax highlighted code block
+#### Theses
 
-# Header 1
-## Header 2
-### Header 3
+Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
 
-- Bulleted
-- List
+#### Patent
 
-1. Numbered
-2. List
+Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
 
-**Bold** and _Italic_ and `Code` text
+##### Work in Progress
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haoz2/Haoz2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+the Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".
+the National Natural Science Foundation of China.
