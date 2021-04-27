@@ -8,14 +8,17 @@ In the broadest sense, I do research regarding how to bridge soil mechanics ,  g
 
 #### Theses
 
-  ·Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
+
+<P style="text-indent:2em;"> Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
 
 #### Patent
 
-  ·Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
+<P style="text-indent:2em;"> Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
 
 ##### Work in Progress
 
-  ·the Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".
-  ·the National Natural Science Foundation of China.
+
+<P style="text-indent:2em;"> the Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".
+  
+<P style="text-indent:2em;"> the National Natural Science Foundation of China.
 
