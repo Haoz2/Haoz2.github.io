@@ -1,10 +1,4 @@
-  <style>
-  #ex {
-  width:100;
-  height:100;
-  }
-  </style>
-<img src="D:\ppt模板标识\111.jpg " id="ex" />
+<img src="D:\ppt模板标识\111.jpg "/>
 
 ### About Me
       
