@@ -1,4 +1,8 @@
-<img src="D:\ppt模板标识\111.jpg " />
+  #ex {
+  width:100;
+  height:100;
+  }
+<img src="D:\ppt模板标识\111.jpg " id="ex" />
 
 ### About Me
       
