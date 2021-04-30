@@ -13,13 +13,13 @@ I am a Master degree candidate in Civil Engineering under supervision of Profess
 #### Theses
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-          Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
+Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
 </p>
 
 #### Patent
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-          Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
+Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
 </p>
           
 #### Work in Progress
