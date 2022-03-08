@@ -13,7 +13,7 @@ In the broadest sense, I do research regarding how to bridge soil mechanics, geo
 ### Paper
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Wang X, <b>Ding H</b>, Meng Q, et al (2021) Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea. Construction and Building Materials 300:124263. https://doi.org/10.1016/j.conbuildmat.2021.124263
+Wang X, <b>Ding H</b>, Meng Q, et al (2021) Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea. Construction and Building Materials 300:124263. <a href="https://www.sciencedirect.com/science/article/pii/S0950061821020225">https://doi.org/10.1016/j.conbuildmat.2021.124263</a>
 </p>
 
 ### Patent
