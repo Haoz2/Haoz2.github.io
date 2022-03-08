@@ -10,24 +10,23 @@ I am a Master degree candidate in Civil Engineering under supervision of Profess
 In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.
 </p>
 
-#### Theses
+### Paper
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Haozhen Ding, "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", Construction and Building Materials.
+Wang X, <b>Ding H</b>, Meng Q, et al (2021) Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea. Construction and Building Materials 300:124263. https://doi.org/10.1016/j.conbuildmat.2021.124263
 </p>
 
-#### Patent
+### Patent
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Starfish type wave-eliminating, wave-preventing and landing concrete block and manufacturing method thereof.
 </p>
           
-#### Work in Progress
+### Work in Progress
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".<br>The National Natural Science Foundation of China.
 </p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="国科大.png " style="right" />
 
 
