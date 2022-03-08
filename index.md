@@ -27,16 +27,7 @@
 <ul><li>Xinzhi Wang,&nbsp;<u>Haozhen Ding</u>,<strong>&nbsp;</strong>. "A new starfish-shaped wave-absorbing, wave-proof and anti-landing concrete block"&nbsp;<li>
 </ul><h2><strong>Work in Progress </strong></h2>
 <ul><li>The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment"&nbsp;</li>
-</ul></div></div></div>  </div>
-
-  
-  
-</article>
-    </div>
-  </div>
-</div>
-  </div>
-</div>
+</ul></div>
 
 
       
