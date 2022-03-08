@@ -22,10 +22,10 @@
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Research Interests</strong></h2>
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
 <h2><strong>Publications</strong></h2>
-<ul><li>Xinzhi Wang, <u>Haozhen Ding</u>, Qinshan Meng, Houzhen Wei, YangWu, YangWu. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>] </li>
+<ul><li>Xinzhi Wang, <u>Haozhen Ding</u>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>] </li>
 </ul><h2><strong>Patent</strong></h2> 
-<ul><li>Xinzhi Wang,&nbsp;<u>Haozhen Ding</u>,<strong>&nbsp;</strong>. "A new starfish-shaped wave-absorbing, wave-proof and anti-landing concrete block"&nbsp;<li>
-</ul><h2><strong>Work in Progress </strong></h2>
+<ul><li>Xinzhi Wang,&nbsp;<u>Haozhen Ding</u><strong>&nbsp;</strong>. "A new starfish-shaped wave-absorbing, wave-proof and anti-landing concrete block"&nbsp;<li>
+</ul><h2><strong>Work in Progress</strong></h2>
 <ul><li>The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment"&nbsp;</li>
 </ul></div>
 
