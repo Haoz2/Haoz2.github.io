@@ -27,6 +27,6 @@ Starfish type wave-eliminating, wave-preventing and landing concrete block and m
 The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".<br>The National Natural Science Foundation of China.
 </p>
 
-<div class="justify>he110, text justify.</div><br/>
+<div class="justify>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.</div><br/>
 
 
