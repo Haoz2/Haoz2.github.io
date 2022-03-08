@@ -5,7 +5,7 @@
             <section id="main-content" role="main">
 
                           <header>
-                          <h1 id="page-title">Research</h1>
+                          <h1 id="page-title">About me</h1>
             
                       </header>
                 
@@ -13,7 +13,7 @@
     <div id="block-system-main" class="block block-system">
   <div class="block-inner clearfix">
                 <div class="block-content content">
-      <article id="article-5" class="article article-type-page clearfix" about="/research" typeof="foaf:Document" role="article">
+      <article id="article-5" class="article article-type-page clearfix" about="/About me" typeof="foaf:Document" role="article">
 
   
       <span property="dc:title" content="Research" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
