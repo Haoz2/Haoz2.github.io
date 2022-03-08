@@ -33,8 +33,6 @@ The Strategic Priority Research Program of the Chinese Academy of Science (A) "E
 
 </ul><h2><strong>Work in Progress </strong>(Drafts Available Upon Request)</h2>
 <ul><li><u>Haozhen Ding</u>. "The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment",&nbsp;</li>
-<li><u>Hanzhang Qin</u>,&nbsp;"Density Estimation via Bernstein Polynomials with Combinatorial Shape Constraints",&nbsp;<em>in preparation</em>. [<a href=
-</ul></div></div></div>  </div>
 
   
   
@@ -45,10 +43,4 @@ The Strategic Priority Research Program of the Chinese Academy of Science (A) "E
   </div>
 </div>
 
-        
-      </section>
-
-    </div></div>
-
-        
-  </div></div>
+      
