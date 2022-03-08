@@ -6,6 +6,7 @@
 
                           <header>
                           <h1 id="page-title">About me</h1>
+                          <link rel= "shortcut icon" href= "favicon.ico" type="image/x-icon" /> 
             
                       </header>
                 
