@@ -21,7 +21,7 @@
   <div class="article-content">
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Research Interests</strong></h2>
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
-<h2><strong>Publications</strong></h2>
+<h2><strong>Article</strong></h2>
 <ul><li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>] </li>
 <li>Dongsheng Wen, Xinzhi Wang, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Damage evolution of coral limestone in the Zhongsha Islands",&nbsp;<em>Geomechanics and Geophysics for Geo-energy and Geo-Resources</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>] </li>
