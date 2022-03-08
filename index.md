@@ -25,7 +25,7 @@ The Strategic Priority Research Program of the Chinese Academy of Science (A) "E
   
   <div class="article-content">
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Research Interests</strong></h2>
-<p>In the broadest sense, I do research regarding how to bridge operations research, statistics and machine learning together. I have a particular interest in studying multi-stage stochastic systems where data-driven decision making is involved, and their applications in supply chain analytics, revenue management and transportation systems.&nbsp;</p>
+<p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
 <h2><strong>Publications</strong></h2>
 <ul><li><u>Hanzhang Qin</u>, David Simchi-Levi, Li Wang. "Data-Driven Approximation Schemes for Joint Pricing and Inventory Control Models",&nbsp;<em>Management Science (Article In Advance)</em>. [<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2021.4212">link</a>] [<a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3354358">SSRN</a>]</li>
 <li><u>Hanzhang Qin</u>, Zhi-Hai Zhang, Danyu Bai. "Permutation Flowshop Group Scheduling with Position-Based Learning Effect."&nbsp;<em>Computers &amp; Industrial Engineering</em>&nbsp;92 (2016): 1-15. [<a href="http://www.sciencedirect.com/science/article/abs/pii/S0360835215004714">link</a>]</li>
