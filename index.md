@@ -1,6 +1,3 @@
-<head>
-    <link rel= "shortcut icon" href= "favicon.ico" type="image/x-icon" /> 
-</head>
     <div id="columns"><div class="columns-inner clearfix add-gutter">
     <div id="content-column"><div class="content-inner">
 
