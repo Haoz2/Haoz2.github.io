@@ -1,4 +1,7 @@
-<div id="columns"><div class="columns-inner clearfix add-gutter">
+<head>
+    <link rel= "shortcut icon" href= "favicon.ico" type="image/x-icon" /> 
+</head>
+    <div id="columns"><div class="columns-inner clearfix add-gutter">
     <div id="content-column"><div class="content-inner">
 
       
@@ -6,7 +9,7 @@
 
                           <header>
                           <h1 id="page-title">About me</h1>
-                          <link rel= "shortcut icon" href= "favicon.ico" type="image/x-icon" /> 
+                        
             
                       </header>
                 
