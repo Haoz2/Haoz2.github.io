@@ -23,7 +23,7 @@
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Eduation</strong></h2>
 <li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-    </b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
-<li><b>2022-    </b>. joint Ph.D. Wuhan University, School of Civil Engineering.</li>
+<li><b>2022-    </b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 <h2><strong>Research Interests</strong></h2>
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
 <h2><strong>Article</strong></h2>
