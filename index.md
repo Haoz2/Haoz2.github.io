@@ -20,7 +20,9 @@
       <span property="dc:title" content="Research" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
 <p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
   <div class="article-content">
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Research Interests</strong></h2>
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Eduation</strong></h2>
+<li><b>2016-2020</b>. Hefei University of Technology, College of Civil Engineering</li>
+<h2><strong>Research Interests</strong></h2>
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
 <h2><strong>Article</strong></h2>
 <ul><li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>]</li> 
