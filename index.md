@@ -39,7 +39,8 @@
 <li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
 <li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
 </ul><h2><strong>Work in Progress</strong></h2>
-<ul><li>The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".&nbsp;</li>
+<ul><li>Strategic Pilot Science and Technology Projects of the Chinese Academy of Sciences(A). "Steady state analysis of surrounding rock of island underground engineering".&nbsp;</li>
+<li>Special Foundation for National Science and Technology Basic Research Program of China. "Holocene sedimentary stratigraphic research of coral reef in the Zhongsha Islands".&nbsp;</li>
 
     </ul></div></div></div>  </div>
 
