@@ -41,6 +41,7 @@
 </ul><h2><strong>Work in Progress</strong></h2>
 <ul><li>Strategic Pilot Science and Technology Projects of the Chinese Academy of Sciences(A). "Steady state analysis of surrounding rock of island underground engineering".&nbsp;</li>
 <li>Special Foundation for National Science and Technology Basic Research Program of China. "Holocene sedimentary stratigraphic research of coral reef in the Zhongsha Islands".&nbsp;</li>
+<li>National Natural Science Foundation of China. "Study on water holding characteristics and ecological application of calcareous soil in the reclamation islands and reefs of the South China Sea".&nbsp;</li>
 
     </ul></div></div></div>  </div>
 
