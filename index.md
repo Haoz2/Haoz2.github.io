@@ -25,7 +25,7 @@
 <li><b>2020-    </b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
 <li><b>2022-    </b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 <h2><strong>Research Interests</strong></h2>
-<p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in Sedimentary evolution.&nbsp;</p>
+<p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</p>
 <h2><strong>Article</strong></h2>
 <ul><li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Under review] </li>
@@ -34,7 +34,10 @@
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Journal of Petroleum Science and Engineering</em>. [Under review] </li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Under review]</li>
 </ul><h2><strong>Patent</strong></h2> 
-<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A new starfish-shaped wave-absorbing, wave-proof and anti-landing concrete block".&nbsp;</li>
+<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
+<ul><li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
+<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
+<ul><li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
 </ul><h2><strong>Work in Progress</strong></h2>
 <ul><li>The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".&nbsp;</li>
 
