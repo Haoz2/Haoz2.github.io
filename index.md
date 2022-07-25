@@ -21,7 +21,7 @@
 <p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
   <div class="article-content">
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Eduation</strong></h2>
-<li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
+<ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-    </b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
 <li><b>2022-    </b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 <h2><strong>Research Interests</strong></h2>
@@ -35,9 +35,9 @@
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Under review]</li>
 </ul><h2><strong>Patent</strong></h2> 
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
-<ul><li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
-<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
-<ul><li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
+<li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
+<li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
+<li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
 </ul><h2><strong>Work in Progress</strong></h2>
 <ul><li>The Strategic Priority Research Program of the Chinese Academy of Science (A) "Environmental Change in the South China Sea" Special Project "Geological Stability and Engineering Safety Assessment".&nbsp;</li>
 
