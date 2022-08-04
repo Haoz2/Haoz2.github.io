@@ -37,7 +37,7 @@
 effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific Research Institute</em>. [Under review] </li>
 </ul><h2><strong>Patent</strong></h2> 
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
-<li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
+<li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong></strong>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
 <li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
 <li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b><strong>&nbsp;</strong>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
 </ul><h2><strong>Work in Progress</strong></h2>
