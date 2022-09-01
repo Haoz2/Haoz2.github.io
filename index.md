@@ -35,7 +35,7 @@
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Under review]</li>
 <li>Xueyou Zhou, Min Zhang, Zhaoguang Chang, Xiaoping Zhai, <b>Haozhen Ding*</b>, Xinzhi Wang, . "Visual quantitative evaluation method for grouting 
 effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific Research Institute</em>. [Under review] </li>
-</ul><h2><strong>Patent</strong></h2> 
+</ul><h2><strong>Invention Patent</strong></h2> 
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
 <li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
 <li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
