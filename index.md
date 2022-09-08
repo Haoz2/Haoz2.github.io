@@ -28,13 +28,13 @@
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</p>
 <h2><strong>Article</strong></h2>
 <ul><li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">link</a>]</li> 
-<li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Under review] </li>
-<li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Under review]</li>
+<li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Major Revision] </li>
+<li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Major Revision]</li>
 <li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Damage evolution of coral limestone in the Zhongsha Islands",&nbsp;<em>Geomechanics and Geophysics for Geo-energy and Geo-Resources</em>. [Under review]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Applied Ocean Research</em>. [Under review] </li>
-<li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Under review]</li>
+<li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li>
 <li>Xueyou Zhou, Min Zhang, Zhaoguang Chang, Xiaoping Zhai, <b>Haozhen Ding*</b>, Xinzhi Wang, . "Visual quantitative evaluation method for grouting 
-effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific Research Institute</em>. [Under review] </li>
+effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific Research Institute</em>. [Major Revision] </li>
 </ul><h2><strong>Invention Patent</strong></h2> 
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
 <li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
