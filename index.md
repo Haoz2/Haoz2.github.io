@@ -1,4 +1,4 @@
-<table style=border:1px dotted #000000>
+<table  rules=none   cellspacing=0   align=center>
    <td width="50%">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
