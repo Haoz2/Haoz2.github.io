@@ -16,9 +16,9 @@
                 <div class="block-content content">
       <article id="article-5" class="article article-type-page clearfix" about="/Short Bio" typeof="foaf:Document" role="article">
 <p>
-   <strong>Ph.D. Candidate</strong>
-    Institute of Rock and Soil Mechanics
-    Chinese Academy of Sciences
+   <li><strong>Ph.D. Candidate</strong></li>
+    <li>Institute of Rock and Soil Mechanics</li>
+    <li>Chinese Academy of Sciences</li>
     </p>
       <span property="dc:title" content="Research" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
 <p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
