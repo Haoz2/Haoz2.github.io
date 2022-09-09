@@ -1,8 +1,8 @@
 <p>
-   <strong><font size="8">Ph.D. Candidate</font></strong><br>
+   <strong><font size="5">Ph.D. Candidate</font></strong><br>
    <br>
-    <font size="5">Institute of Rock and Soil Mechanics</font><br>
-    <font size="5">Chinese Academy of Sciences</font>
+    <font size="4">Institute of Rock and Soil Mechanics</font><br>
+    <font size="4">Chinese Academy of Sciences</font>
  </p>
 <div id="columns"><div class="columns-inner clearfix add-gutter">
     <div id="content-column"><div class="content-inner">
