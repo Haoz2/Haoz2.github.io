@@ -1,13 +1,5 @@
 
-<table border="0">
-table {
-    display: table;
-    border-collapse: separate;
-    box-sizing: border-box;
-    text-indent: initial;
-    border-spacing: 2px;
-    border-color: grey;
-}
+<table>
    <tr>
 	<td width="50%">
 <p style='margin-bottom: 25px;'>
