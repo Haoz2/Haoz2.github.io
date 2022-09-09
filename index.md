@@ -5,7 +5,7 @@
             <section id="main-content" role="main">
 
                           <header>
-                          <h1 id="page-title">About me</h1>
+                          <h1 id="page-title">Short Bio</h1>
                         
             
                       </header>
