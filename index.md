@@ -1,5 +1,5 @@
 <table>
-	<tbody>
+ <tbody>
    <td width="50%">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
@@ -11,13 +11,14 @@
  <p style='margin-top: 15px;'>
    <font size="4">Email: haozeal@gmail.com</font><br>
  </p>
- </td><td width="30%">
+ </td>
+	<td width="30%">
 				<img src="头像.jpg" width="100%">
 			</td>
 			<td width="5%">
 			</td>	
 			
-</tbody> 
+ </tbody> 
 </table>
  
 <div id="columns"><div class="columns-inner clearfix add-gutter">
