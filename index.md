@@ -15,9 +15,9 @@
   <div class="block-inner clearfix">
                 <div class="block-content content">
 <p>
-   <li><strong>Ph.D. Candidate</strong></li>
-    <li>Institute of Rock and Soil Mechanics</li>
-    <li>Chinese Academy of Sciences</li>
+   <strong>Ph.D. Candidate</strong><br>
+    Institute of Rock and Soil Mechanics<br>
+    Chinese Academy of Sciences
  </p>
       <article id="article-5" class="article article-type-page clearfix" about="/Short Bio" typeof="foaf:Document" role="article">
       <span property="dc:title" content="Research" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
