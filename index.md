@@ -15,7 +15,7 @@
 			</td>
 			<td width="5%">
 				
-			</td>
+			
  </table>
  
 <div id="columns"><div class="columns-inner clearfix add-gutter">
