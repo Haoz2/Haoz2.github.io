@@ -1,5 +1,5 @@
 
-<table>
+<table border="0" bordercolor="white">
    <tr>
 	<td width="50%">
 <p style='margin-bottom: 25px;'>
