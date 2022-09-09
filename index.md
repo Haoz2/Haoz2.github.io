@@ -1,5 +1,5 @@
 
-<table frame=void rules=none>
+<table>
    <tbody>
 	<tr>
 	<td width="50%">
