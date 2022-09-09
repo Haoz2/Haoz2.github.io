@@ -1,5 +1,5 @@
 <table>
- <tbody>
+ 
    <td width="50%">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
@@ -18,7 +18,7 @@
 			<td width="5%">
 			</td>	
 			
- </tbody> 
+
 </table>
  
 <div id="columns"><div class="columns-inner clearfix add-gutter">
