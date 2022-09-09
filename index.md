@@ -1,5 +1,5 @@
 
-<table> == $0
+<table>
 <tbody> 
    <tr>
 	<td width="50%">
