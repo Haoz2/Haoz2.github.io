@@ -1,4 +1,4 @@
-<table>
+<table style="border: 1px solid transparent">
    <td width="50%">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
