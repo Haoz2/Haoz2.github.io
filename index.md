@@ -1,10 +1,11 @@
-<p style='margin-bottom: 30px;'>
+<p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
   </p>
   <p>
     <font size="4">Institute of Rock and Soil Mechanics</font><br>
     <font size="4">Chinese Academy of Sciences</font><br>
-   <br>
+  </p>
+ <p style='margin-top: 20px;'>
    <font size="4">Email: haozeal@gmail.com</font><br>
  </p>
 <div id="columns"><div class="columns-inner clearfix add-gutter">
