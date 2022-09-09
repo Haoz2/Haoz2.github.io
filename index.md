@@ -1,6 +1,7 @@
-<p>
+<p style='margin-bottom: 30px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
-   <br>
+  </p>
+  <p>
     <font size="4">Institute of Rock and Soil Mechanics</font><br>
     <font size="4">Chinese Academy of Sciences</font><br>
    <br>
