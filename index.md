@@ -1,6 +1,6 @@
 
 <table>
-<tbody> 
+
    <tr>
 	<td width="50%">
 <p style='margin-bottom: 25px;'>
@@ -22,7 +22,7 @@
 </tr>
 <tr>
 	</tr>
-</tbody> 
+ 
 </table>
  
 <div id="columns"><div class="columns-inner clearfix add-gutter">
