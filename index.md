@@ -1,7 +1,7 @@
 <p>
-   <strong>Ph.D. Candidate</strong><br>
-    Institute of Rock and Soil Mechanics<br>
-    Chinese Academy of Sciences
+   <strong><font size="6">Ph.D. Candidate</font></strong><br>
+    <font size="5">Institute of Rock and Soil Mechanics</font><br>
+    <font size="5">Chinese Academy of Sciences</font>
  </p>
 <div id="columns"><div class="columns-inner clearfix add-gutter">
     <div id="content-column"><div class="content-inner">
