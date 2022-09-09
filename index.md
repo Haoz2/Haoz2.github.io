@@ -14,7 +14,7 @@
 				<img src="头像.jpg" width="100%">
 			</td>
 			<td width="5%">
-				
+			</td>	
 			
  </table>
  
