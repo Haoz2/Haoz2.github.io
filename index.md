@@ -13,7 +13,7 @@
    <font size="4">Email: haozeal@gmail.com</font><br>
  </p>
  </td>
-	<td width="30%" frame=void >
+	<td width="50%" frame=void >
 				<img src="头像.jpg" width="80%">
 			</td>
 	
