@@ -14,7 +14,7 @@
  </p>
  </td>
 	<td width="40%" frame=void >
-				<img src="头像.jpg" width="60%">
+				<img src="头像.jpg">
 			</td>
 	
 </tr>
