@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
    <tbody>
 	<tr>
-	<td width="60%" frame=void >
+	<td width="60%" frame=void>
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
   </p>
@@ -13,7 +13,7 @@
    <font size="4">Email: haozeal@gmail.com</font><br>
  </p>
  </td>
-	<td width="40%" frame=void >
+	<td width="40%" frame=void>
 				<img src="头像.jpg">
 			</td>
 	
