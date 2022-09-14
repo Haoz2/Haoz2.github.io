@@ -44,8 +44,8 @@
   <div class="article-content">
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Education</strong></h2>
 <ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
-<li><b>2020-    </b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
-<li><b>2022-    </b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li></ul>
+<li><b>2020-Present</b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
+<li><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li></ul>
 <h2><strong>Research Interests</strong></h2>
 <p>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</p>
 <p><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></p>
