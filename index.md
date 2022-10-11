@@ -10,7 +10,7 @@
 
 <font face="Segoe UI Semibold">
 <h1><strong>Short Bio</strong></h1>
-<p><font face="Segoe UI Semibold" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a>. I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</font></p>
+<p><font face="Segoe UI Semibold" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a>. I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
 
 <h2><strong>Education</strong></h2>
 <font face="Segoe UI Semibold" size="4">
@@ -20,7 +20,7 @@
 
 
 </ul><h2><strong>Research Interests</strong></h2>
-<p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</font></p>
+<p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</p>
 
 <h2><strong>Article</strong></h2>
 <font face="Segoe UI Semibold" size="4">
