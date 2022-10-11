@@ -19,7 +19,7 @@
 
 
 </ul><h2><strong>Research Interests</strong></h2>
-<p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</p>
+<p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</font></p>
 
 <h2><strong>Article</strong></h2>
 <font face="Segoe UI Semibold" size="4">
