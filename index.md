@@ -54,8 +54,8 @@
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Accept] </li>
 <li>Xueyou Zhou, Min Zhang, Zhaoguang Chang, Xiaoping Zhai, <b>Haozhen Ding*</b>, Xinzhi Wang, . "Visual quantitative evaluation method for grouting 
 effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific Research Institute</em>. [Accept] </li>
-<li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Major Revision]</li>
-<li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Damage evolution of coral limestone in the Zhongsha Islands",&nbsp;<em>Geomechanics and Geophysics for Geo-energy and Geo-Resources</em>. [Under Review]</li>
+<li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Accept]</li>
+<li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Damage evolution of coral limestone in the Zhongsha Islands",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Under Review]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Applied Ocean Research</em>. [Under Review] </li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li>
 </ul><h2><strong>Invention Patent</strong></h2> 
