@@ -13,9 +13,8 @@
 		</div>
 </body> 
 <h1>Short Bio</h1>
-<p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
-  <div class="article-content">
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Education</strong></h2>
+<p><font face="Times New Roman">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</font></p>
+<h2><strong>Education</strong></h2>
 <ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-Present</b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
 <li><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li></ul>
