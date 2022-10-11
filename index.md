@@ -1,3 +1,4 @@
+<table>
 <td width="60%" frame=void>
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
