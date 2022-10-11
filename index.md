@@ -1,9 +1,13 @@
-<img src="头像.jpg" width="200">
-<p style='margin-bottom: 10px;'>
-   <strong><font size="4"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong><br>
-  </p>
-
-<h1 id="page-title">Short Bio</h1>
+<head>
+		<meta charset="utf-8">
+	</head>
+<body>
+		<div align="center">
+			<img src="头像.jpg" height="200px" width="200px "/>
+        <br><strong><font size="4"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong><br>
+		</div>
+</body> 
+<h1>Short Bio</h1>
 <p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
   <div class="article-content">
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Education</strong></h2>
