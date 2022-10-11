@@ -1,4 +1,4 @@
-<img src="头像.jpg" width="250">
+<img src="头像.jpg" width="200">
 <p style='margin-bottom: 10px;'>
    <strong><font size="4"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong><br>
   </p>
