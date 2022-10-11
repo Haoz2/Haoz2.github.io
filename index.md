@@ -1,4 +1,4 @@
-<img src="头像.jpg" align="middle"; width="250"; height="250">
+<img src="头像.jpg" width="250">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
   </p>
