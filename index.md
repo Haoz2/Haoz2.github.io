@@ -13,12 +13,12 @@
 
 <h2><strong>Education</strong></h2>
 <font face="Segoe UI Semibold" size="4">
-<ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</font></li>
+<ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-Present</b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
-<li><font face="Segoe UI Semibold" size="4"><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li></ul>
+<li><font face="Segoe UI Semibold" size="4"><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 </font>
 
-<h2><strong>Research Interests</strong></h2>
+</ul><h2><strong>Research Interests</strong></h2>
 <p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</font></p>
 
 </ul><h2><strong>Article</strong></h2>
@@ -33,7 +33,7 @@
 
 </ul><h2><strong>Invention Patent</strong></h2> 
 	<font face="Segoe UI Semibold" size="4">
-<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</font></li>
+<ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
 <li><font face="Segoe UI Semibold" size="4">Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
 <li><font face="Segoe UI Semibold" size="4">Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
 <li><font face="Segoe UI Semibold" size="4">Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</font></li>
