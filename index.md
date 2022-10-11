@@ -4,7 +4,7 @@
 <body>
 		<div align="center">
 			<img src="头像.jpg" height="180px" width="180px "/>
-        <br><strong><font face="Segoe UI Semibold" size="4"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong><br>
+        <br><strong><font size="4"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong><br>
 		</div>
 </body> 
 
