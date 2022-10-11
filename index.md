@@ -49,6 +49,6 @@
 </ul>
 <body>
 		<div align="center">
-        <br><font face="Segoe UI Semibold" size="3"><strong>© Haozhen Ding | Last update: Oct. 2022 </strong></font>
+			<font face="Segoe UI Semibold" size="3"><strong>© Haozhen Ding | Last update: Oct. 2022 </strong></font>
 		</div>
 </body>   
