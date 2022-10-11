@@ -21,7 +21,7 @@
 <h2><strong>Research Interests</strong></h2>
 <p><font face="Segoe UI Semibold" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution.&nbsp;</font></p>
 
-<h2><strong>Article</strong></h2>
+</ul><h2><strong>Article</strong></h2>
 <font face="Segoe UI Semibold" size="4">
 <ul><li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea",&nbsp;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Accept] </li>
@@ -31,21 +31,21 @@
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Applied Ocean Research</em>. [Under Review] </li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li></ul>
 
-<h2><strong>Invention Patent</strong></h2> 
+</ul><h2><strong>Invention Patent</strong></h2> 
 	<font face="Segoe UI Semibold" size="4">
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</font></li>
 <li><font face="Segoe UI Semibold" size="4">Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
 <li><font face="Segoe UI Semibold" size="4">Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
-<li><font face="Segoe UI Semibold" size="4">Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</font></li></ul>
+<li><font face="Segoe UI Semibold" size="4">Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</font></li>
 </font>
 
-<h2><strong>Work in Progress</strong></h2>
+</ul><h2><strong>Work in Progress</strong></h2>
 <font face="Segoe UI Semibold" size="4">
 <ul><li>Strategic Pilot Science and Technology Projects of the Chinese Academy of Sciences(A). "Steady state analysis of surrounding rock in underground engineering of island".&nbsp;</li>
 <li>Special Foundation for National Science and Technology Basic Research Program of China. "Holocene sedimentary stratigraphic research of coral reef in the Zhongsha Islands".&nbsp;</li>
-<li>National Natural Science Foundation of China. "Study on water holding characteristics and ecological application of calcareous soil in the reclamation islands and reefs of the South China Sea".&nbsp;</li></ul>
+<li>National Natural Science Foundation of China. "Study on water holding characteristics and ecological application of calcareous soil in the reclamation islands and reefs of the South China Sea".&nbsp;</li>
 </font>
-
+</ul>
 <body>
 		<div align="center">
         <br><strong><font face="Segoe UI Semibold" size="3">© Haozhen Ding | Last update: Oct. 2022 </font></strong>
