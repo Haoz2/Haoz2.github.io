@@ -27,24 +27,4 @@ effect of expansive soil cracks",&nbsp;<em>Journal of Yangtze River Scientific R
 <li>Special Foundation for National Science and Technology Basic Research Program of China. "Holocene sedimentary stratigraphic research of coral reef in the Zhongsha Islands".&nbsp;</li>
 <li>National Natural Science Foundation of China. "Study on water holding characteristics and ecological application of calcareous soil in the reclamation islands and reefs of the South China Sea".&nbsp;</li>
 
-    </ul></div></div></div>  </div>
-
-  
-  
-</article>
-    </div>
-  </div>
-</div>
-  </div>
-</div>
-
-        
-      </section>
-
-    </div></div>
-
-        
-  </div>
-
-
       
