@@ -15,7 +15,7 @@
 <font face="Segoe UI Semibold" size="4">
 <ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-Present</b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
-<li><font face="Segoe UI Semibold" size="4"><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
+<li><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 </font>
 
 </ul><h2><strong>Research Interests</strong></h2>
@@ -29,14 +29,15 @@
 <li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Accept]</li>
 <li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Experimental study on damage behavior of porous coral limestone from the Zhongsha Islands",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Under Review]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Applied Ocean Research</em>. [Under Review] </li>
-<li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li></ul>
-
+<li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li>
+</font>
+	
 </ul><h2><strong>Invention Patent</strong></h2> 
-	<font face="Segoe UI Semibold" size="4">
+<font face="Segoe UI Semibold" size="4">
 <ul><li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A new concrete block for anti-waves and anti-landing".&nbsp;</li>
-<li><font face="Segoe UI Semibold" size="4">Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
-<li><font face="Segoe UI Semibold" size="4">Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
-<li><font face="Segoe UI Semibold" size="4">Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</font></li>
+<li>Dongsheng Wen, Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>, Zhengjin Wang. "A method and system for determining the initiation stress and damage stress of rock cracks".&nbsp;</li>
+<li>Xinzhi Wang,&nbsp;<b>Haozhen Ding</b>. "A starfish type concrete block used for wave suppression and landing protection and its production method".&nbsp;</li>
+<li>Xinzhi Wang, Ke Yan, Shizhan Lv, Zhengjin Wang,&nbsp;<b>Haozhen Ding</b>. "A grouting material for cracks of expansive soil dam and its production method".&nbsp;</li>
 </font>
 
 </ul><h2><strong>Work in Progress</strong></h2>
@@ -45,9 +46,10 @@
 <li>Special Foundation for National Science and Technology Basic Research Program of China. "Holocene sedimentary stratigraphic research of coral reef in the Zhongsha Islands".&nbsp;</li>
 <li>National Natural Science Foundation of China. "Study on water holding characteristics and ecological application of calcareous soil in the reclamation islands and reefs of the South China Sea".&nbsp;</li>
 </font>
+	
 </ul>
 <body>
 		<div align="center">
-        <br><strong><font face="Segoe UI Semibold" size="3">© Haozhen Ding | Last update: Oct. 2022 </font></strong>
+        <br><font face="Segoe UI Semibold" size="3"><strong>© Haozhen Ding | Last update: Oct. 2022 </strong></font>
 		</div>
 </body>   
