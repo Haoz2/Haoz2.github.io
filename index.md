@@ -8,7 +8,8 @@
 		</div>
 </body> 
 
-<h1><font face="Segoe UI Semibold"><strong>Short Bio</strong></font></h1>
+<font face="Segoe UI Semibold">
+<h1><strong>Short Bio</strong></font></h1>
 <p><font face="Segoe UI Semibold" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a>. I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</font></p>
 
 <h2><strong>Education</strong></h2>
