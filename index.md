@@ -1,5 +1,4 @@
-<table>
-<td width="60%" frame=void>
+<img src="头像.jpg" align="middle"; width="250"; height="250">
 <p style='margin-bottom: 25px;'>
    <strong><font size="5">Ph.D. Candidate</font></strong><br>
   </p>
@@ -7,17 +6,9 @@
     <font size="4">Institute of Rock and Soil Mechanics</font><br>
     <font size="4">Chinese Academy of Sciences</font><br>
   </p>
- <p style='margin-top: 15px;'>
+   <p style='margin-top: 15px;'>
    <font size="4">Email: haozeal@gmail.com</font><br>
  </p>
- </td>
-	<td width="40%" frame=void>
-				<img src="头像.jpg">
-			</td>
-	
-</tr>
-</tbody>
-</table>
 
 <h1 id="page-title">Short Bio</h1>
 <p>I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan . I am affliated with <a href="http://www.sklgme.org/">State Key Laboratory of Geomechanics and Geotechnical Engineering</a> and <a href="http://www.whrsm.ac.cn/">Institute of Rock and Soil Mechanics</a> at <a href="http://www.cas.ac.cn/">CAS</a> . I got my bachelor's degree from <a href="https://www.hfut.edu.cn/">Hefei University of Technology</a>. You can reach me through my email address haozeal at gmail dot com.</p>
