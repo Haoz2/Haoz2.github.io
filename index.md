@@ -30,7 +30,7 @@
 <li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-022-03113-1">Link to the article</a>]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea",&nbsp;<em>Applied Ocean Research</em>. [<a href="https://www.sciencedirect.com/science/article/pii/S0141118722003170">Link to the article</a>] </li>
 <li>Xinzhi Wang, Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Experimental Study on Damage Behavior of Porous Coral Limestone from the Zhongsha Islands, South China Sea",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-023-03253-y">Link to the article</a>]</li>
-<li>Xinzhi Wang, Dongsheng Wen, <b>Haozhen Ding</b>, Peng Huang. "Strengthening calcareous sand with zinc sulfate solution to improve the erosion resistance of slope",&nbsp;<em>Engineering Geology</em>. [Under Review]</li>
+<li>Xinzhi Wang, Dongsheng Wen, <b>Haozhen Ding</b>, Peng Huang. "Strengthening calcareous sand with zinc sulfate solution to improve the erosion resistance of slope",&nbsp;<em>Acta Geotechnica</em>. [Under Review]</li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li>
 </ul></font>
 	
