@@ -14,7 +14,7 @@
 
 <h2><strong>Education</strong></h2>
 <font face="Segoe UI Semibold" size="4">
-<ul><li><b>2016-2020</b>. B.S. Hefei University of Technology, College of Civil Engineering.</li>
+<ul><li><b>2016-2020</b>. B.E. Hefei University of Technology, College of Civil Engineering.</li>
 <li><b>2020-Present</b>. Ph.D. Candidate. University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics.</li>
 <li><b>2022-Present</b>. Joint Ph.D. Wuhan University, School of Civil Engineering.</li>
 </ul></font>
