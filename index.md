@@ -34,7 +34,7 @@
 <li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen. "Study on Incipient Motion and Seepage deformation of Coral Soil subjected to Seepage flow",&nbsp;<em>Journal of Hydrology</em>. [Under Review]</li>
 <li>Xinzhi Wang, Dongsheng Wen, <b>Haozhen Ding</b>, Peng Huang. "Strengthening calcareous sand with zinc sulfate solution to improve the erosion resistance of slope",&nbsp;<em>Acta Geotechnica</em>. [Under Review]</li>
 <li>Kai Wu, Qingshan Meng, <b>Haozhen Ding</b>, Mingnan Xu, Xinzhi Wang, Chi Wang. "The influence of interface effect on the strength characteristics and fracture mechanism of the coral reef limestone-concrete combination",&nbsp;<em>Rock Mechanics and Rock Engineering</em>. [Under Review]</li>
-<li>Chenghao Ma, Changqi Zhu, Haifeng Liu, Ru Qu, <b>Haozhen Ding</b>, Tianmin Wang. "Experimental Study on the Influence of Particle Morphology on Compression Characteristics of Coral Sand in South China Sea</em>. [Under Review]</li>
+<li>Chenghao Ma, Changqi Zhu, Haifeng Liu, Ru Qu, <b>Haozhen Ding</b>, Tianmin Wang. "Experimental Study on the Influence of Particle Morphology on Compression Characteristics of Coral Sand in South China Sea",&nbsp;<em>Bulletin of Engineering Geology and the Environment</em>. [Under Review]</li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand",&nbsp;<em>International Journal of Geomechanics</em>. [Major Revision]</li>
 </ul></font>
 	
