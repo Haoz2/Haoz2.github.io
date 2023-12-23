@@ -29,7 +29,8 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Research Experiences</strong></h1></font>
-<font face="Georgia" size="4"><p><strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
+<font face="Georgia" size="4">
+<p><strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="4">
