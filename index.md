@@ -1,14 +1,16 @@
 <head>
 <meta charset="utf-8">
 </head>
-<body>
-		<div align="center">
-			<img src="头像.jpg" height="180px" width="180px "/>
-			<font face="Georgia" size="4" >
-			<br><strong><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a>
-			</strong></font>
-		</div>
-</body> 
+<div style="display:inline-block;vertical-align:top;">
+    <img src="头像.jpg" height="200px" alt="img"/>
+</div>	
+<div style="display:inline-block;">
+    <p><font face="Palatino Linotype" size="3" >
+        <img class="sidebarimg" src="Google Scholar.jpg" height="13px"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/"> Google Scholar</a><br> 
+        <img class="sidebarimg" src="ResearchGate.jpeg" height="13px"> <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a><br> 
+        <img class="sidebarimg" src="Gmail.webp" height="13px"> <a href="https://haozeal@gmail.com/">Email</a><br> 
+    </p>
+</div>
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
@@ -91,7 +93,7 @@
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>Rapid solidification method of calcareous sand. [United States]</li>
-<li>A new concrete block for anti-waves and anti-landing [China]</li>
+<li>A new concrete block for anti-waves and anti-landing. [China]</li>
 <li>A method and system for determining the initiation stress and damage stress of rock cracks. [China]</li>
 <li>A starfish type concrete block used for wave suppression and landing protection and its production method. [China]</li>
 <li>A grouting material for cracks of expansive soil dam and its production method. [China]</li>
