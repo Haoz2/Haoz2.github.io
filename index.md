@@ -122,6 +122,6 @@
 
 <body>
 		<div align="center">
-			<font face="Georgia" size="3"><strong><em>© Haozhen Ding | Last update: Dec. 2023 <em></strong></font>
+			<font face="Georgia" size="3"><strong><em>© Haozhen Ding | Last update: Dec. 2023 </em></strong></font>
 		</div>
 </body>   
