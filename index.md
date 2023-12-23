@@ -7,9 +7,9 @@
 </div>	
 <div style="display:inline-block;">
 <font face="Georgia" size="4" >
-        <img class="sidebarimg" src="Google Scholar.jpg" height="13px"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/"> Google Scholar</a><br> 
-        <img class="sidebarimg" src="ResearchGate.jpeg" height="13px"> <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a><br> 
-        <img class="sidebarimg" src="Gmail.webp" height="13px"> <a href="https://haozeal@gmail.com/">Email</a><br></font>
+        <img class="sidebarimg" src="Google Scholar.jpg" height="15px"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/"> Google Scholar</a><br> 
+        <img class="sidebarimg" src="ResearchGate.jpeg" height="14px"> <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a><br> 
+        <img class="sidebarimg" src="Gmail.webp" height="15px"> <a href="mailto:haozeal@gmail.com">Email</a><br></font>
 </div>
 </div>
 
