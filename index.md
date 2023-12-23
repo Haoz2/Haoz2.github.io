@@ -16,7 +16,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
-<font face="Georgia" size="3">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-Xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
+<font face="Georgia" size="3">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-Xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering of Institute of Rock and Soil Mechanics at CAS. You can reach me through my email address haozeal at gmail dot com.</font>
 <font face="Georgia" size="4">
 <br><strong>Research Interests</strong></font>
 <ul>
@@ -61,12 +61,12 @@
 <font face="Georgia" size="3">
 <br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="3">
-<ul>Study on the Seepage Deformation Characteristic and Assessment of Internal Stability for Seepage-Induced Fine Particle Migration in Coral Sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
+<ul>Study on the seepage deformation characteristic and assessment of internal stability for seepage-Induced fine particle migration in coral sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
 
 <font face="Georgia" size="1">
 <h1><strong>Journal Publictions</strong></h1></font>
 <font face="Georgia" size="3">
-<ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage Deformation Characteristic of Gap-graded Coral Sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
+<ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage deformation characteristic of gap-graded coral sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", ;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study", <em>Bulletin of Engineering Geology and the Environment</em>. [<a href="https://link.springer.com/article/10.1007/s10064-022-02975-7">Link to the article</a>]</li>
 <li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate", <em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-022-03113-1">Link to the article</a>]</li>
@@ -74,7 +74,7 @@
 <li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Experimental study on damage behavior of porous coral limestone from the Zhongsha Islands", <em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-023-03253-y">Link to the article</a>]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea", <em>Applied Ocean Research</em>. [<a href="https://www.sciencedirect.com/science/article/pii/S0141118722003170">Link to the article</a>] </li>
 <li>Hao Wu, Jianhua Shen, Xuewn Lei, Xiang Chen, <b>Haozhen Ding</b>, Xinzhi Wang. "Effects of dry density and initial water content on water retention of coral sand", <em>Chinese Journal of Rock Mechanics and Engineering</em>.[Accept] </li>
-<li>Xinzhi Wang, Peng Huang, Xuewen Lei, Dongsheng Wen, <b>Haozhen Ding</b>, Kaicheng Liu. " Experimental investigation and engineering application of permeability characteristics of zinc sulfate cemented coral sand", <em>Rock and soil Mechanics</em>. [Accept]</li>
+<li>Xinzhi Wang, Peng Huang, Xuewen Lei, Dongsheng Wen, <b>Haozhen Ding</b>, Kaicheng Liu. " Experimental investigation and engineering application of permeability characteristics of zinc sulfate cemented coral sand", <em>Rock and Soil Mechanics</em>. [Accept]</li>
 <li>Xueyou Zhou, Min Zhang, Zhaoguang Chang, Xiaoping Zhai, <b>Haozhen Ding*</b>, Xinzhi Wang, . "Visual quantitative evaluation method for grouting effect of expansive soil cracks", <em>Journal of Yangtze River Scientific Research Institute</em>. [<a href="https://kns.cnki.net/kcms2/article/abstract?v=lWc4gvQ5J17b5KaFDg31lAcNE8MydiH2_zhwzBsLi-nOcNFMImxe3k8ML5tQvad_SDA-cS3ywzRCNhlUpjunmkCCdz_LxSK6uRpg8xnf4zGmZTNm0XIrC1StHLm--uOguELWYWtcb2zmyoMiB9lTog==&uniplatform=NZKPT&language=CHS">Link to the article</a>] </li>
 </ul></font>
 
@@ -82,11 +82,11 @@
 <strong>Work in Progress</strong></font>
 <font face="Palatino Linotype" size="3">
 <ul>
-<li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang. "Experimental Investigation on Stress-Strain Behavior of hydraulic filled Coral Sand Subjected to Internal Erosion", <em>Underground Space</em>. [Submitted to Journal]</li>
-<li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang.. "Study on Incipient Motion and Seepage deformation of Coral Soil subjected to Seepage flow", <em>Journal of Hydrology</em>. [Submitted to Journal]</li>
+<li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang. "Experimental investigation on stress-strain behavior of hydraulic filled coral sand subjected to internal erosion", <em>GeoShanghai International Conference 2024</em>. [Submitted to Journal]</li>
+<li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang.. "Study on incipient motion and seepage deformation of coral soil subjected to seepage flow", <em>Journal of Hydrology</em>. [Submitted to Journal]</li>
 <li>Xinzhi Wang, Dongsheng Wen, <b>Haozhen Ding</b>, Peng Huang. "Strengthening calcareous sand with zinc sulfate solution to improve the erosion resistance of slope", <em>Bulletin of Engineering Geology and the Environment</em>. [Under Review]</li>
-<li>Chenghao Ma, Changqi Zhu, Haifeng Liu, Ru Qu, Tianmin Wang, <b>Haozhen Ding</b>, Kai Wu. "Experimental Study on the Influence of Particle Morphology on Compression Characteristics of Coral Sand in South China Sea", <em>Journal of Building Engineering</em>. [Under Review]</li>
-<li>Kai Wu, Qingshan Meng, Le Luo, Qinglong Qin, Chi Wang, Xinzhi Wang, Tianli Shen, <b>Haozhen Ding</b>."Competition mechanism of time-dependent deformation in coral reef limestone", <em>Journal of Rock Mechanics and Geotechnical Engineering</em>. [Under Review]</li>
+<li>Chenghao Ma, Changqi Zhu, Haifeng Liu, Ru Qu, Tianmin Wang, <b>Haozhen Ding</b>, Kai Wu. "Experimental study on the influence of particle morphology on compression characteristics of Coral Sand in South China Sea", <em>Journal of Building Engineering</em>. [Submitted to Journal]</li>
+<li>Kai Wu, Qingshan Meng, Le Luo, Qinglong Qin, Chi Wang, Xinzhi Wang, Tianli Shen, <b>Haozhen Ding</b>."Competition mechanism of time-dependent deformation in coral reef limestone", <em>Journal of Rock Mechanics and Geotechnical Engineering</em>. [Submitted to Journal]</li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand", <em>International Journal of Geomechanics</em>. [Major Revision]</li>
 </ul></font>
 
@@ -106,8 +106,8 @@
 <h1><strong>Honors and Awards</strong></h1> </font>
 <font face="Georgia" size="3">
 <ul>
-<li>The Scholarship of UCAS Joint Phd Training Program, 2023.</li>
-<li>UCAS Merit student Prize, 2022.</li>
+<li>UCAS Scholarship of Joint PhD Training Program, 2023.</li>
+<li>UCAS Merit Student Prize, 2022.</li>
 <li>Provincial Award of Undergraduate Innovation and Entrepreneurship Competition, 2019.</li>
 </ul></font>
 
