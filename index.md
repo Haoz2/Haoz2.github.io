@@ -16,7 +16,7 @@
 
 <font face="Georgia" size="4">
 <strong>Research Interests</strong></font>
-<br><font face="Palatino Linotype" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</br></font>
+<p><font face="Palatino Linotype" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p></font>
 
 <font face="Georgia" size="1">
 <h1><strong>Education</strong></h1></font>
