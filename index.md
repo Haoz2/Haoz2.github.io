@@ -64,7 +64,7 @@
 <ul>Study on the seepage deformation characteristic and assessment of internal stability for seepage-Induced fine particle migration in coral sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Journal Publictions</strong></h1></font>
+<h1><strong>Journal Publications</strong></h1></font>
 <font face="Georgia" size="3">
 <ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage deformation characteristic of gap-graded coral sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", ;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
