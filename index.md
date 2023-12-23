@@ -16,16 +16,16 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
-<font face="Palatino Linotype" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
+<font face="Georgia" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
 <font face="Georgia" size="4">
 <br><strong>Research Interests</strong></font>
 <ul>
-<font face="Palatino Linotype" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</font>
+<font face="Georgia" size="3">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</font>
 </ul>
 
 <font face="Georgia" size="1">
 <h1><strong>Education</strong></h1></font>
-<font face="Palatino Linotype" size="4">
+<font face="Georgia" size="4">
 <ul>
 <li><b>Institute of Rock and Soil Mechanics, University of Chinese Academy of Sciences</b></li><em>Ph.D. candidate in Geotechnical Engineering, 2020-Present.</em>
 <li><b>The University of Melbourne</b></li><em>Joint Ph.D. candidate, 2023-Present.</em>
@@ -39,33 +39,33 @@
 <strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>Taking the vibroflotation of the reclaimed coral sand ground in the South China Sea as a case analysis. Improving the vibroflotation method with regard to the problem of weak silt interlayers, and proposed the approach of encrypting vibroflotation holes and adding coarse-grained coral gravels in vibroflotation holes, respectively.</ul></font>
 
 <font face="Georgia" size="4">
 <strong>Major Participant (Sep 2021-Mar 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>Research on the crack treatment and construction technology of the canal embankment of the Middle Route of the South-to-North Water Diversion Project, and analysis of the long-term deformation mechanism of the expansive soil canal section.</ul></font>
 
 <font face="Georgia" size="4">
 <strong>Graduate Student Researcher (Oct cot 2020-Dec 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Scientific Investigation in SCS, CAS, South China Sea</em></font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>Collaborated with the CSSIO, IMR, NIMTE, IOZ, IGSNRR (Part of CAS) on a scientific investigation for stability assessment of hydraulic reefs in SCS.</ul></font>
 
 <font face="Georgia" size="4">
 <strong>Research Internal (Jul 2022-Present)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>Study on the Seepage Deformation Characteristic and Assessment of Internal Stability for Seepage-Induced Fine Particle Migration in Coral Sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
 
 <font face="Georgia" size="1">
 <h1><strong>Journal Publictions</strong></h1></font>
-<font face="Palatino Linotype" size="4">
+<font face="Georgia" size="3">
 <ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage Deformation Characteristic of Gap-graded Coral Sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", ;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study", <em>Bulletin of Engineering Geology and the Environment</em>. [<a href="https://link.springer.com/article/10.1007/s10064-022-02975-7">Link to the article</a>]</li>
@@ -80,7 +80,7 @@
 
 <font face="Georgia" size="4">
 <strong>Work in Progress</strong></font>
-<font face="Palatino Linotype" size="4">
+<font face="Palatino Linotype" size="3">
 <ul>
 <li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang. "Experimental Investigation on Stress-Strain Behavior of hydraulic filled Coral Sand Subjected to Internal Erosion", <em>Underground Space</em>. [Submitted to Journal]</li>
 <li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang.. "Study on Incipient Motion and Seepage deformation of Coral Soil subjected to Seepage flow", <em>Journal of Hydrology</em>. [Submitted to Journal]</li>
@@ -92,7 +92,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Patents</strong></h1> </font>
-<font face="Palatino Linotype" size="4">
+<font face="Georgia" size="4">
 <ul>
 <li>Rapid solidification method of calcareous sand. [United States]</li>
 <li>A new concrete block for anti-waves and anti-landing. [China]</li>
@@ -104,7 +104,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Honors and Awards</strong></h1> </font>
-<font face="Palatino Linotype" size="4">
+<font face="Georgia" size="4">
 <ul>
 <li>The Scholarship of UCAS Joint Phd Training Program, 2023.</li>
 <li>UCAS Merit student Prize, 2022.</li>
@@ -113,7 +113,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Professional Member</strong></h1> </font>
-<font face="Palatino Linotype" size="4">
+<font face="Georgia" size="4">
 <ul>
 <li>Student Member, Geological Society of China.</li>
 <li>Student Member, Chinese Society for Rock Mechanics and Engineering.</li>
@@ -122,6 +122,6 @@
 
 <body>
 		<div align="center">
-			<font face="Segoe UI Semibold" size="3"><strong>© Haozhen Ding | Last update: Dec. 2023 </strong></font>
+			<font face="Georgia" size="3"><strong>© Haozhen Ding | Last update: Dec. 2023 </strong></font>
 		</div>
 </body>   
