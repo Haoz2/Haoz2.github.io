@@ -13,7 +13,7 @@
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
 <font face="Palatino Linotype" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
-
+<br>
 <font face="Georgia" size="4">
 <strong>Research Interests</strong></font>
 <ul>
