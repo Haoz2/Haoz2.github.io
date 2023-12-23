@@ -16,7 +16,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
-<font face="Georgia" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
+<font face="Georgia" size="3">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
 <font face="Georgia" size="4">
 <br><strong>Research Interests</strong></font>
 <ul>
@@ -92,7 +92,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Patents</strong></h1> </font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>
 <li>Rapid solidification method of calcareous sand. [United States]</li>
 <li>A new concrete block for anti-waves and anti-landing. [China]</li>
@@ -104,7 +104,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Honors and Awards</strong></h1> </font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>
 <li>The Scholarship of UCAS Joint Phd Training Program, 2023.</li>
 <li>UCAS Merit student Prize, 2022.</li>
@@ -113,7 +113,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Professional Member</strong></h1> </font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>
 <li>Student Member, Geological Society of China.</li>
 <li>Student Member, Chinese Society for Rock Mechanics and Engineering.</li>
@@ -122,6 +122,6 @@
 
 <body>
 		<div align="center">
-			<font face="Georgia" size="3"><strong>© Haozhen Ding | Last update: Dec. 2023 </strong></font>
+			<font face="Georgia" size="3"><strong><em>© Haozhen Ding | Last update: Dec. 2023 <em></strong></font>
 		</div>
 </body>   
