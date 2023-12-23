@@ -12,10 +12,10 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
-<p><font face="Palatino Linotype" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.
+<p><font face="Palatino Linotype" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.</font>
 <font face="Georgia" size="4">
 <p><strong>Research Interests</strong></font>
-<br>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p></font>
+<br><font face="Palatino Linotype" size="4">In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p></font>
 
 <font face="Georgia" size="1">
 <h1><strong>Education</strong></h1></font>
@@ -29,8 +29,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Research Experiences</strong></h1></font>
-<font face="Georgia" size="4">
-<p><strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
+<font face="Georgia" size="4"><p><strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="4">
