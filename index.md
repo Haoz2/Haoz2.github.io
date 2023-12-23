@@ -1,8 +1,9 @@
 <head>
 <meta charset="utf-8">
 </head>
+<div style="display:flex;justify-content:center;">
 <div style="display:inline-block;vertical-align:top;">
-    <img src="头像.jpg" height="100px" alt="img"/>
+    <img src="头像.jpg" height="150px" hspace="20" alt="img"/>
 </div>	
 <div style="display:inline-block;">
 <font face="Georgia" size="4" >
@@ -10,6 +11,8 @@
         <img class="sidebarimg" src="ResearchGate.jpeg" height="13px"> <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a><br> 
         <img class="sidebarimg" src="Gmail.webp" height="13px"> <a href="https://haozeal@gmail.com/">Email</a><br></font>
 </div>
+</div>
+
 
 <font face="Georgia" size="1">
 <h1><strong>Short Bio</strong></h1></font>
