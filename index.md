@@ -11,18 +11,14 @@
 </body> 
 
 <font face="Georgia" size="1">
-<h1><strong>Short Bio</strong></h1>
-</font>
+<h1><strong>Short Bio</strong></h1></font>
 <p><font face="Palatino Linotype" size="4">I am a Ph.D. candidate in Geotechnical Engineering under supervision of Professor Wang-xinzhi and Professor Meng-Qingshan. I am affliated with State Key Laboratory of Geomechanics and Geotechnical Engineering. You can reach me through my email address haozeal at gmail dot com.
 <font face="Georgia" size="4">
-<p><strong>Research Interests</strong>
-</font>
-<br>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p>
-</font>
+<p><strong>Research Interests</strong></font>
+<br>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Education</strong></h1>
-</font>
+<h1><strong>Education</strong></h1></font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics</li><em>2020-Present, Ph.D. candidate in Geotechnical Engineering</em>
@@ -32,51 +28,37 @@
 
 
 <font face="Georgia" size="1">
-<h1><strong>Research Experiences</strong></h1>
-</font>
+<h1><strong>Research Experiences</strong></h1></font>
 <font face="Georgia" size="4">
-<p><strong>Research Internal (Aug 2020-Jun 2022)</strong>
-</font>
+<p><strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em>
-</font>
+<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="4">
-<ul><p>Taking the vibroflotation of the reclaimed coral sand ground in the South China Sea as a case analysis. Improving the vibroflotation method with regard to the problem of weak silt interlayers, and proposed the approach of encrypting vibroflotation holes and adding coarse-grained coral gravels in vibroflotation holes, respectively.</p></ul>
-</font>
+<ul><p>Taking the vibroflotation of the reclaimed coral sand ground in the South China Sea as a case analysis. Improving the vibroflotation method with regard to the problem of weak silt interlayers, and proposed the approach of encrypting vibroflotation holes and adding coarse-grained coral gravels in vibroflotation holes, respectively.</p></ul></font>
 
 <font face="Georgia" size="4">
-<p><strong>Major Participant (Sep 2021-Mar 2022)</strong>
-</font>
+<p><strong>Major Participant (Sep 2021-Mar 2022)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></p>
-</font>
+<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="4">
-<ul><p>Research on the crack treatment and construction technology of the canal embankment of the Middle Route of the South-to-North Water Diversion Project, and analysis of the long-term deformation mechanism of the expansive soil canal section.</p></ul>
-</font>
+<ul><p>Research on the crack treatment and construction technology of the canal embankment of the Middle Route of the South-to-North Water Diversion Project, and analysis of the long-term deformation mechanism of the expansive soil canal section.</p></ul></font>
 
 <font face="Georgia" size="4">
-<p><strong>Graduate Student Researcher (Oct cot 2020-Dec 2022)</strong>
-</font>
+<p><strong>Graduate Student Researcher (Oct cot 2020-Dec 2022)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Scientific Investigation in SCS, CAS, South China Sea</em></p>
-</font>
+<br><em>Scientific Investigation in SCS, CAS, South China Sea</em></font>
 <font face="Georgia" size="4">
-<ul><p>Collaborated with the CSSIO, IMR, NIMTE, IOZ, IGSNRR (Part of CAS) on a scientific investigation for stability assessment of hydraulic reefs in SCS.</p></ul>
-</font>
+<ul><p>Collaborated with the CSSIO, IMR, NIMTE, IOZ, IGSNRR (Part of CAS) on a scientific investigation for stability assessment of hydraulic reefs in SCS.</p></ul></font>
 
 <font face="Georgia" size="4">
-<p><strong>Research Internal (Jul 2022-Present)</strong>
-</font>
+<p><strong>Research Internal (Jul 2022-Present)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></p>
-</font>
+<br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="4">
-<ul><p>Study on the Seepage Deformation Characteristic and Assessment of Internal Stability for Seepage-Induced Fine Particle Migration in Coral Sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</p></ul>
-</font>
+<ul><p>Study on the Seepage Deformation Characteristic and Assessment of Internal Stability for Seepage-Induced Fine Particle Migration in Coral Sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</p></ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Journal Publictions</strong></h1>
-</font>
+<h1><strong>Journal Publictions</strong></h1></font>
 <font face="Palatino Linotype" size="4">
 <ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage Deformation Characteristic of Gap-graded Coral Sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", ;<em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
@@ -91,8 +73,7 @@
 </ul></font>
 
 <font face="Georgia" size="4">
-<p><strong>Work in Progress</strong></p>
-</font>
+<p><strong>Work in Progress</strong></p></font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Kaicheng Liu, Peng Huang. "Experimental Investigation on Stress-Strain Behavior of hydraulic filled Coral Sand Subjected to Internal Erosion", <em>Underground Space</em>. [Submitted to Journal]</li>
@@ -101,12 +82,10 @@
 <li>Chenghao Ma, Changqi Zhu, Haifeng Liu, Ru Qu, Haozhen Ding, Tianmin Wang. "Experimental Study on the Influence of Particle Morphology on Compression Characteristics of Coral Sand in South China Sea", <em>Journal of Building Engineering</em>. [Under Review]</li>
 <li>Kai Wu, Qingshan Meng, Le Luo, Qinglong Qin, Chi Wang, Xinzhi Wang, Tianli Shen, Haozhen Ding."Competition mechanism of time-dependent deformation in coral reef limestone", <em>Journal of Rock Mechanics and Geotechnical Engineering</em>. [Under Review]</li>
 <li>Jiaming Zhang, Junyuan Zeng, XinZhi Wang, Junhao Wang, <b>Haozhen Ding</b>. "Calculation of passive earth pressure on inclined retaining wall considering the arching effect of calcareous sand", <em>International Journal of Geomechanics</em>. [Major Revision]</li>
-</ul>
-</font>
+</ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Invention Patent</strong></h1> 
-</font>
+<h1><strong>Invention Patent</strong></h1> </font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>Rapid solidification method of calcareous sand. [United States]</li>
@@ -118,8 +97,7 @@
 </ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Honors and Awards</strong></h1> 
-</font>
+<h1><strong>Honors and Awards</strong></h1> </font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>The Scholarship of UCAS Joint Phd Training Program, 2023.</li>
@@ -128,8 +106,7 @@
 </ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Professional Member</strong></h1> 
-</font>
+<h1><strong>Professional Member</strong></h1> </font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>Member, Geological Society of China.</li>
