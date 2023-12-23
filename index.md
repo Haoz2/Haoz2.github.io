@@ -5,7 +5,8 @@
 		<div align="center">
 			<img src="头像.jpg" height="180px" width="180px "/>
 			<font face="Georgia" size="4" >
-        <br><strong><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a></font></strong>
+			<br><strong><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/">My Google Scholar</a> / <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a>
+		</font></strong>
 		</div>
 </body> 
 
@@ -18,6 +19,7 @@
 </font>
 <br>In the broadest sense, I do research regarding how to bridge soil mechanics, geology and continuum mechanics together. I have a particular interest in studying mechanical properties of calcareous sand where structural characteristics of coral reefs is involved, and their applications in sedimentary evolution. Currently, I am doing research about the particle transport and multi-phase flow and distribution in porous media.</p>
 </font>
+
 <font face="Georgia" size="1">
 <h1><strong>Education</strong></h1>
 </font>
@@ -27,6 +29,8 @@
 <li>The University of Melbourne</li><em>2023-Present, Joint Ph.D. candidate.</em>
 <li>Hefei University of Technology</li><em>2016-2020, B.Eng. in Civil Engineering</em>
 </ul></font>
+
+
 <font face="Georgia" size="1">
 <h1><strong>Research Experiences</strong></h1>
 </font>
