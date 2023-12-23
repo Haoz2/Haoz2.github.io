@@ -5,11 +5,10 @@
     <img src="头像.jpg" height="200px" alt="img"/>
 </div>	
 <div style="display:inline-block;">
-    <p><font face="Palatino Linotype" size="3" >
+<font face="Palatino Linotype" size="3" >
         <img class="sidebarimg" src="Google Scholar.jpg" height="13px"><a href="https://scholar.google.com/citations?user=_UgQOOIAAAAJ&hl=zh-CN/"> Google Scholar</a><br> 
         <img class="sidebarimg" src="ResearchGate.jpeg" height="13px"> <a href="https://www.researchgate.net/profile/Haozhen-Ding-2/">ResearchGate</a><br> 
-        <img class="sidebarimg" src="Gmail.webp" height="13px"> <a href="https://haozeal@gmail.com/">Email</a><br> 
-    </p>
+        <img class="sidebarimg" src="Gmail.webp" height="13px"> <a href="https://haozeal@gmail.com/">Email</a><br></font>
 </div>
 
 <font face="Georgia" size="1">
