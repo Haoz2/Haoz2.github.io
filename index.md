@@ -23,9 +23,9 @@
 <h1><strong>Education</strong></h1></font>
 <font face="Palatino Linotype" size="4">
 <ul>
-<li>University of Chinese Academy of Sciences, Institute of Rock and Soil Mechanics</li><em>2020-Present, Ph.D. candidate in Geotechnical Engineering</em>
-<li>The University of Melbourne</li><em>2023-Present, Joint Ph.D. candidate.</em>
-<li>Hefei University of Technology</li><em>2016-2020, B.Eng. in Civil Engineering</em>
+<li><b>Institute of Rock and Soil Mechanics, University of Chinese Academy of Sciences</b></li><em>Ph.D. candidate in Geotechnical Engineering, 2020-Present.</em>
+<li><b>The University of Melbourne</b></li><em>Joint Ph.D. candidate, 2023-Present.</em>
+<li><b>Hefei University of Technology</b></li><em>B.Eng. in Civil Engineering, 2016-2020.</em>
 </ul></font>
 
 
@@ -87,7 +87,7 @@
 </ul></font>
 
 <font face="Georgia" size="1">
-<h1><strong>Invention Patent</strong></h1> </font>
+<h1><strong>Patents</strong></h1> </font>
 <font face="Palatino Linotype" size="4">
 <ul>
 <li>Rapid solidification method of calcareous sand. [United States]</li>
