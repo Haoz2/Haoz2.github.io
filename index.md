@@ -25,7 +25,7 @@
 
 <font face="Georgia" size="1">
 <h1><strong>Education</strong></h1></font>
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 <ul>
 <li><b>Institute of Rock and Soil Mechanics, University of Chinese Academy of Sciences</b></li><em>Ph.D. candidate in Geotechnical Engineering, 2020-Present.</em>
 <li><b>The University of Melbourne</b></li><em>Joint Ph.D. candidate, 2023-Present.</em>
@@ -36,18 +36,11 @@
 <font face="Georgia" size="1">
 <h1><strong>Research Experiences</strong></h1></font>
 <font face="Georgia" size="4">
-<strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
+<strong>Research Internal (Jul 2022-Present)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
+<br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="3">
-<ul>Taking the vibroflotation of the reclaimed coral sand ground in the South China Sea as a case analysis. Improving the vibroflotation method with regard to the problem of weak silt interlayers, and proposed the approach of encrypting vibroflotation holes and adding coarse-grained coral gravels in vibroflotation holes, respectively.</ul></font>
-
-<font face="Georgia" size="4">
-<strong>Major Participant (Sep 2021-Mar 2022)</strong></font>
-<font face="Georgia" size="3">
-<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
-<font face="Georgia" size="3">
-<ul>Research on the crack treatment and construction technology of the canal embankment of the Middle Route of the South-to-North Water Diversion Project, and analysis of the long-term deformation mechanism of the expansive soil canal section.</ul></font>
+<ul>Study on the seepage deformation characteristic and assessment of internal stability for seepage-Induced fine particle migration in coral sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
 
 <font face="Georgia" size="4">
 <strong>Graduate Student Researcher (Oct cot 2020-Dec 2022)</strong></font>
@@ -57,11 +50,18 @@
 <ul>Collaborated with the CSSIO, IMR, NIMTE, IOZ, IGSNRR (Part of CAS) on a scientific investigation for stability assessment of hydraulic reefs in SCS.</ul></font>
 
 <font face="Georgia" size="4">
-<strong>Research Internal (Jul 2022-Present)</strong></font>
+<strong>Major Participant (Sep 2021-Mar 2022)</strong></font>
 <font face="Georgia" size="3">
-<br><em>Center for Marine and Environmental Geotechnical Engineering, CAS, IRSM, Wuhan</em></font>
+<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
 <font face="Georgia" size="3">
-<ul>Study on the seepage deformation characteristic and assessment of internal stability for seepage-Induced fine particle migration in coral sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
+<ul>Research on the crack treatment and construction technology of the canal embankment of the Middle Route of the South-to-North Water Diversion Project, and analysis of the long-term deformation mechanism of the expansive soil canal section.</ul></font>
+
+<font face="Georgia" size="4">
+<strong>Research Internal (Aug 2020-Jun 2022)</strong></font>
+<font face="Georgia" size="3">
+<br><em>Marine Engineering Geology Group, CAS, IRSM, Wuhan</em></font>
+<font face="Georgia" size="3">
+<ul>Taking the vibroflotation of the reclaimed coral sand ground in the South China Sea as a case analysis. Improving the vibroflotation method with regard to the problem of weak silt interlayers, and proposed the approach of encrypting vibroflotation holes and adding coarse-grained coral gravels in vibroflotation holes, respectively.</ul></font>
 
 <font face="Georgia" size="1">
 <h1><strong>Journal Publications</strong></h1></font>
