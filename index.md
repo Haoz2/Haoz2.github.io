@@ -66,7 +66,7 @@
 <font face="Georgia" size="1">
 <h1><strong>Journal Publications</strong></h1></font>
 <font face="Georgia" size="3">
-<ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage deformation characteristic of gap-graded coral sand in the South China Sea", <em>Applied Ocean Research</em>. [Accepted]</li> 
+<ul><li><b>Haozhen Ding</b>, Xinzhi Wang, Dongsheng Wen, Peng Huang. "Seepage deformation characteristic of gap-graded coral sand in the South China Sea", <em>Applied Ocean Research</em>. [<a href="https://www.sciencedirect.com/science/article/pii/S0141118723004066">Link to the article</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Qinshan Meng, Houzhen Wei, Yang Wu, Yong Zhang. "Engineering characteristics of coral reef and site assessment of hydraulic reclamation in the South China Sea", <em>Construction and Building Materials</em>. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950061821020225">Link to the article</a>]</li> 
 <li>Xinzhi Wang, <b>Haozhen Ding</b>, Dongsheng Wen, Xing Wang. "Vibro-compaction method to treat silt interlayers of dredger fill coral sand foundation-a case study", <em>Bulletin of Engineering Geology and the Environment</em>. [<a href="https://link.springer.com/article/10.1007/s10064-022-02975-7">Link to the article</a>]</li>
 <li>Dongsheng Wen, Xinzhi Wang, <b>Haozhen Ding</b>, Zhibin Fu. " Estimation of crack initiation stress based on axial crack expansion rate", <em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-022-03113-1">Link to the article</a>]</li>
