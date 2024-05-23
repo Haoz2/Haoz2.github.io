@@ -3,7 +3,7 @@
 </head>
 <div style="display:flex;justify-content:center;">
 <div style="display:inline-block;vertical-align:top;">
-    <img src="头像.jpg" height="150px" hspace="20" alt="img"/>
+    <img src="profile.jpg" height="150px" hspace="20" alt="img"/>
 </div>	
 <div style="display:inline-block;">
 <font face="Georgia" size="4" >
@@ -74,9 +74,8 @@
 <li>Kai Wu, Qingshan Meng, <b>Haozhen Ding</b>, Mingnan Xu, Xinzhi Wang, Chi Wang. " The influence of interface effect on the strength characteristics and fracture mechanism of the coral reef limestone-concrete combination", <em>Construction and Building Materials</em>. [<a href="https://linkinghub.elsevier.com/retrieve/pii/S0950061823034670">Link to the article</a>]</li>
 <li>Xinzhi Wang,Dongsheng Wen, Qi Shi, <b>Haozhen Ding</b>, Xing Wang. "Experimental study on damage behavior of porous coral limestone from the Zhongsha Islands", <em>Rock Mechanics and Rock Engineering</em>. [<a href="https://link.springer.com/article/10.1007/s00603-023-03253-y">Link to the article</a>]</li>
 <li>Xinzhi Wang, Xing Wang, Jianhua shen, <b>Haozhen Ding</b>, Dongsheng Wen, Changqi Zhu, Shizhan Lv. "Foundation filling performance of marine deposits on coral reefs in the South China Sea", <em>Applied Ocean Research</em>. [<a href="https://www.sciencedirect.com/science/article/pii/S0141118722003170">Link to the article</a>] </li>
-<li>Hao Wu, Jianhua Shen, Xuewn Lei, Xiang Chen, <b>Haozhen Ding</b>, Xinzhi Wang. "Effects of dry density and initial water content on water retention of coral sand", <em>Chinese Journal of Rock Mechanics and Engineering</em>.[<a href="https://kns.cnki.net/kcms2/article/abstract?v=Y2wviAwYlnKIVakHSWAnnnJtPdWeGuk_xx4BkNhY5cKqXP2D0v9rMzS5PlrK1gPUCgmGyEW4-48oIsEcyxUjm58qUoorCNkSoK7jVLMkIcvHsY_XKUKckCSoe0G3rAAqry1IACs0WgM=&uniplatform=NZKPT&language=CHS">Link to the article</a>] </li>
-<li>Xinzhi Wang, Peng Huang, Xuewen Lei, Dongsheng Wen, <b>Haozhen Ding</b>, Kaicheng Liu. "Experimental investigation and engineering application of permeability characteristics of zinc sulfate cemented coral sand", <em>Rock and Soil Mechanics</em>. [Accepted]</li>
-<li>Peng Huang, Xuewen Lei, Xinzhi Wang, Jianhua Shen, <b>Haozhen Ding</b>, Dongsheng Wen. "Experimental study on the stability of seepage erosion in gap-graded coral sand foundation", <em>Rock and Soil Mechanics</em>. [Accepted]</li>
+<li>Hao Wu, Jianhua Shen, Xuewn Lei, Xiang Chen, <b>Haozhen Ding</b>, Xinzhi Wang. "Effects of dry density and initial water content on water retention of coral sand", <em>Chinese Journal of Rock Mechanics and Engineering</em>.[a href="https://kns.cnki.net/kcms2/article/abstract?v=Y2wviAwYlnKIVakHSWAnnnJtPdWeGuk_xx4BkNhY5cKqXP2D0v9rMzS5PlrK1gPUCgmGyEW4-48oIsEcyxUjm58qUoorCNkSoK7jVLMkIcvHsY_XKUKckCSoe0G3rAAqry1IACs0WgM=&uniplatform=NZKPT&language=CHS">Link to the article</a>] </li>
+<li>Xinzhi Wang, Peng Huang, Xuewen Lei, Dongsheng Wen, <b>Haozhen Ding</b>, Kaicheng Liu. " Experimental investigation and engineering application of permeability characteristics of zinc sulfate cemented coral sand", <em>Rock and Soil Mechanics</em>. [Accepted]</li>
 <li>Xueyou Zhou, Min Zhang, Zhaoguang Chang, Xiaoping Zhai, <b>Haozhen Ding*</b>, Xinzhi Wang, . "Visual quantitative evaluation method for grouting effect of expansive soil cracks", <em>Journal of Yangtze River Scientific Research Institute</em>. [<a href="https://kns.cnki.net/kcms2/article/abstract?v=lWc4gvQ5J17b5KaFDg31lAcNE8MydiH2_zhwzBsLi-nOcNFMImxe3k8ML5tQvad_SDA-cS3ywzRCNhlUpjunmkCCdz_LxSK6uRpg8xnf4zGmZTNm0XIrC1StHLm--uOguELWYWtcb2zmyoMiB9lTog==&uniplatform=NZKPT&language=CHS">Link to the article</a>] </li>
 </ul></font>
 
