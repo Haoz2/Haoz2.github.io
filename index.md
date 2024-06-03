@@ -43,7 +43,7 @@
 <ul>Study on the seepage deformation characteristic and assessment of internal stability for seepage-Induced fine particle migration in coral sand. The research results can provide scientific reference for the assessment of internal stability of coral soils and the construction of infrastructure on the reefs.</ul></font>
 
 <font face="Georgia" size="4">
-<strong>Graduate Student Researcher (Oct cot 2022-Dec 2022)</strong></font>
+<strong>Graduate Student Researcher (Oct 2022-Dec 2022)</strong></font>
 <font face="Georgia" size="3">
 <br><em>Scientific Investigation in South China Sea, CAS, South China Sea</em></font>
 <font face="Georgia" size="3">
